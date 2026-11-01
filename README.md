@@ -1,3 +1,11 @@
+# Tokenization Challenge
+
+**Live demo:** https://nft-challenge-1.vercel.app/
+
+My solution to the [SpeedRunEthereum](https://speedrunethereum.com) Tokenization Challenge challenge, built on Scaffold-ETH 2.
+
+---
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
